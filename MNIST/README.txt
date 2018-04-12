@@ -1,0 +1,1 @@
+Must get more than 96% on MNIST without neural networks.
